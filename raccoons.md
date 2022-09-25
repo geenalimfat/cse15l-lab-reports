@@ -1,6 +1,7 @@
 # Raccoons Fanpage
 **UCSD unofficial mascot** 
 *My official mascot*
+Horizontal rule:
 --------------
 ## More about Raccoons
 [Link](https://www.nationalgeographic.com/animals/mammals/facts/raccoon)
