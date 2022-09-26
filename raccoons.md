@@ -7,14 +7,19 @@
 *Raccoon characteristics*   
 * Nocturnal 
 * Scavengers 
-* Trash pandas   
+* Trash pandas  
+  
 ---
 **What I would name my pet raccoons**  
 1. Frederickson
 2. Cluso 
-3. Phil   
+3. Phil  
+ 
 ---
+`String name = "Phil";
+
 ```
 String r = "Raccoons are cute";
+Print r
 ```
 
