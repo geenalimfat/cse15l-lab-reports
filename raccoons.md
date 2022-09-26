@@ -16,7 +16,7 @@
 3. Phil  
  
 ---
-`String name = "Phil";
+`String name = "Phil";`
 
 ```
 String r = "Raccoons are cute";
