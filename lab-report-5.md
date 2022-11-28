@@ -1,6 +1,6 @@
 # **Lab Report 5**
-**Wrong File**:
-![Images](Images/Wrong-file.png)
+**Compile Error**:
+![Images](Images/compile-error.png)
 **Nested**:
 ![Images](Images/nested.png)
 
@@ -8,8 +8,7 @@
 ![Images](Images/correct-methods.png)
 
 **Tracing: Nested**
-![Images](Images/trace.png)
-![Images](Images/trace-2.png)
+![Images](Images/better-trace.png)
 Line 1: `rm -rf student-submission`   
  Removes any file in our repository that has the name `student-submission` so that we can start with a new student submission each time `grade.sh` is used. The *standard output* of this line of code would be zero and continue to run. 
 
