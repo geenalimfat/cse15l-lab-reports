@@ -12,3 +12,5 @@
 * [Lab report 3](/lab-report-3.md) (Week 5)
 
 * [Lab report 4](/lab-report-4.md) (Week 7)
+
+* [Lab report 5](/lab-report-5.md) (Week 9)
